@@ -1,4 +1,4 @@
-- Hi, I’m @simeon-turner
+## Hi, I’m Simeon Turner
 - I am a sophomore studying Electrical and Computer Engineering at Cornell.
 - I'm passionate about digital design and hardware verification.
 
